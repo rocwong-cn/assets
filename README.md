@@ -1,11 +1,14 @@
 # assets
 
-## 使用jsdelivr
+## 使用[jsdelivr](https://www.jsdelivr.com/?docs=gh)
 
-// load any GitHub release, commit, or branch
+使用规则：
 
+```js
 https://cdn.jsdelivr.net/gh/user/repo@version/file
-
 ```
-如：https://cdn.jsdelivr.net/gh/rocwangv/assets/avatar/avatar.png
+
+如：
+```js
+https://cdn.jsdelivr.net/gh/rocwong-cn/assets/avatar/avatar.png
 ```
